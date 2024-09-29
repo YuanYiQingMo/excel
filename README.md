@@ -33,3 +33,4 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 ### let me do it
 ```
 who is the boss? i am the boss.   heihei   xiangrui haihaihai
+Looking forward to vacation.    fei
