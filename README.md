@@ -34,3 +34,4 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 ```
 who is the boss? i am the boss.   heihei   xiangrui haihaihai
 Looking forward to vacation.    fei
+I will go to Nan Chang.    yayagogogog
